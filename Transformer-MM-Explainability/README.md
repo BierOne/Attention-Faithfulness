@@ -16,7 +16,7 @@
 
 
 
-Credits
+## Credits
 
 This codebase is based on this [repo](https://github.com/hila-chefer/Transformer-MM-Explainability).
 
