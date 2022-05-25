@@ -1,0 +1,18 @@
+Pillow>=8.1.1
+einops == 0.3.0
+imageio == 2.9.0
+matplotlib == 3.3.2
+opencv_python
+scikit_image == 0.17.2
+scipy == 1.5.2
+sklearn
+tqdm == 4.51.0
+transformers == 3.5.1
+utils == 1.0.1
+demjson
+torchtext
+omegaconf
+captum
+wget
+ftfy
+regex

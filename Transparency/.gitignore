@@ -1,0 +1,13 @@
+outputs/*/*
+outputs_dev/*/*
+caml-mimic/*
+__pycache__
+.ipynb_checkpoints
+.vscode
+TACL-Attention
+# graph_outputs
+Workshop-NAACL-Attention
+graph_outputs/adv_*
+graph_outputs/*kendalltop*
+graph_outputs/**/*.pdf
+NAACLAttention*
