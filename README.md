@@ -5,11 +5,13 @@ Please see the detailed running steps in subfolders.
 ## Citation
 If you make use of our work, please cite our paper:
 
-    @InProceedings{Liu_2022_ICML,
-    author = {Liu, Yibing and Li, Haoliang and Guo, Yangyang and Kong, Chenqi and Li, Jing and Wang, Shiqi},
-    title = {Rethinking Attention-Model Explainability through Faithfulness Violation Test},
-    year = {2022},
-    booktitle = {{ICML}},
+    @InProceedings{pmlr-v162-liu22i,
+      title = 	 {Rethinking Attention-Model Explainability through Faithfulness Violation Test},
+      author =       {Liu, Yibing and Li, Haoliang and Guo, Yangyang and Kong, Chenqi and Li, Jing and Wang, Shiqi},
+      booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+      pages = 	 {13807--13824},
+      year = 	 {2022},
+      publisher =    {PMLR},
     }
 
 
